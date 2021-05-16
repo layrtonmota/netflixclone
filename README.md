@@ -1,1 +1,1 @@
-Main Netflix clone web page made for educational purposes only.
+Main Netflix clone web page made using ReactJS for educational purposes only.
